@@ -1,0 +1,13 @@
+---
+title: ""
+---
+
+\
+
+I am currently [Niko Beerenwinkel's](https://bsse.ethz.ch/cbg/group/people/person-detail.MTQ5NDE3.TGlzdC81MTYsOTQ0ODM3Mzc2.html) teaching assistant in Statistical Models for Computational Biology as part of the Computational Biology and Bioinformatics Master's programm. 
+
+In 2019, I gave a short course on Bayesian Statistics as part of the European Molecular Biology Laboratory - Bioinformatics course (EMBL-EBI).
+
+In 2018, I gave a short course on Introductory Statistics as part of the European Molecular Biology Laboratory - Bioinformatics course (EMBL-EBI).
+
+<link rel="stylesheet" href="styles.css" type="text/css">

@@ -1,0 +1,26 @@
+name: "Alexander Wolfgang Jung"
+output_dir: "."
+navbar:
+  title: "Alexander W. Jung"
+  left:
+    - text: "About"
+      href: index.html
+    - text: "Research"
+      href: research.html
+#   - text: "Talks"
+#      href: talks.html
+    - text: "Teaching"
+      href: teaching.html
+    - text: "Blog"
+      href: blog.html
+  right:
+    - icon: fa-envelope fa-lg
+      href: contact.html
+    - icon: fa-github fa-lg
+      href: http://github.com/alexwjung
+    - icon: fa-graduation-cap fa-lg
+      href: https://scholar.google.com/citations?user=cNSkFmEAAAAJ&hl=
+output:
+  html_document:
+    theme: paper
+    css: 'styles.css'

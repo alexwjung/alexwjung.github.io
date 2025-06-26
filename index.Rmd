@@ -1,0 +1,49 @@
+---
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+# About
+
+\ 
+<div style="display: flex; align-items: flex-start;">
+
+  <img src="mainimg.jpg" style="width:87%; border:0.1px solid; margin-right: 30px; margin-left: 10px;">
+
+  <div style="max-width: 87%;">
+
+
+I am a [postdoctoral fellow](https://bsse.ethz.ch/people/detail-person.MzQxNDg4.TGlzdC8yNjY5LC0xMDExNjczNjI=.html) at the [Department of Biosystems Science and Engineering](https://bsse.ethz.ch/), [ETH Zurich](https://ethz.ch/). 
+I am also an affiliated researcher at the [ETH AI Center](https://ai.ethz.ch/) and the [SIB Swiss Institute For Bioinformatics](https://www.sib.swiss/) 
+
+Before I came to ETH, I had the pleasure to work with [Laust Hvas Mortensen](https://en.rockwoolfonden.dk/employees/laust-hvas-mortensen/), [Søren Brunak](https://www.cpr.ku.dk/staff/?pure=en/persons/6656) and several other excellent researchers at [Denmark Statistik](https://www.dst.dk/en) and the [University of Copenhagen](https://www.ku.dk/en).
+During my Ph.D. at [Cambridge University](https://www.cam.ac.uk/) and [EMBL-EBI](https://www.ebi.ac.uk/), I worked with [Moritz Gerstung](https://www.dkfz.de/mitarbeiter/moritz-gerstung) and [Ewan Birney](https://www.ebi.ac.uk/people/person/ewan-birney/).
+I received my MSc. in Statistics from [Edinburgh University](https://www.ed.ac.uk/) and my BSc. in Economics from [University of Bamberg](https://www.uni-bamberg.de/).
+
+A current CV is available [here](CV_Jung.pdf).  
+
+  </div>
+</div>
+
+
+My research interest center around **surviva and event history** analysis with a particular focus on method development and applications to electronic health records (EHR) 
+with the aim to produce **real world evidence**.
+ More recently, I have been working on **generative AI** and **causal inference** - you may find a more detailed expose in [Research](research.html). 
+
+If you are interest to discuss or collaborate on a problem in this direction, don't hesitate to contact me by [email](contact.html).  
+
+
+---
+
+## News
+
+- **June 2025**: I will be at [RSS2025](https://rss.org.uk/training-events/conference-2025/) presenting a new method for survival analysis under competing risks without cause information.
+- **Feb 2025**: Updated preprint on GenAI for event history analysis with applications to the UK Biobank and Danish Health Registries. [Paper](https://www.medrxiv.org/content/10.1101/2024.06.07.24308553v2).
+- **Sep 2024**: New preprint applying longitudinal target minimum loss estimation (ltmle) to Danish health registries to identify novel drug repositioning candidates [Paper](https://www.medrxiv.org/content/10.1101/2024.08.12.24311869v1).
+- **June 2024**: Paper on developing multi-cancer risk stratification tools got published in [The Lancet Digital Health](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(24)00062-1/fulltext)
+
+
+
+
+
+

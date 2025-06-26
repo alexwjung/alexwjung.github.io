@@ -1,0 +1,41 @@
+---
+title: ""
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+\
+
+### Reserch interests: 
+- Survial & event history analysis
+- Stochastic processes
+- Generative AI
+- Bayesian Statistics
+- Non-paramteric and semi-parametric inference.
+- Caual inference
+- Sensitivity Analysis
+- Life Course & Intergenerational Epidemiology
+
+
+\
+
+The central pillar of my research is survival and event history analysis.
+My motivation stems from its importance in biomedical research and the vast array of applications it entails.
+For most patient-derived data, we are often interested in time-to-event outcomes—not only whether an event happens (e.g., diagnosis of a disease)
+but also in the time until that event occurs.
+This framework can be extended to more complex settings with multiple events (recurrent or competing) and their relationship to longitudinal measurements.
+Thus, event history analysis provides an essential toolkit for clinical data and a natural model to represent these processes.
+I am also drawn to its theoretical elegance, rooted in its inherent representation via stochastic processes.
+
+A recent research direction involves using generative AI (specifically,
+the Generative Pre-trained Transformer (GPT) architecture) to jointly model longitudinal covariates and multivariate survival data.
+Together with collaborators, we built an initial prototype ([paper](https://www.medrxiv.org/content/10.1101/2024.06.07.24308553v2))
+and heuristically linked the model's reasoning (via explainable AI) to more classical estimates, e.g., hazard ratios from Cox regressions.
+While these links remain informally defined, they represent a promising modeling approach.
+One of my current goals is to formalize this connection and establish standard statistical properties for such models.
+
+Another major interest is causal inference in observational data,
+particularly in complex longitudinal designs where outcomes, exposures, and confounders vary over time with feedback channels that require careful handling.
+Key application areas include life-course outcomes and intergenerational effects—both challenging to study in randomized clinical trials.
+
+You may find an overview of my publications on [Google scholar](https://scholar.google.com/citations?user=cNSkFmEAAAAJ&hl=).
