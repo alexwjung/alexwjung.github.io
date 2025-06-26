@@ -1,41 +1,42 @@
 body {
-  background: #1a1a1a !important;
-  color: #e0e0e0 !important;
+  background: #f1f0f0 !important;
+  color: #f1f0f0 !important;
 }
 
 .navbar,
 .navbar-default {
-  background-color: #1a1a1a !important;
+  background-color: #f1f0f0 !important;
   border-color: #1a1a1a !important;
 }
 
 .navbar-nav > .active > a, .navbar-nav > .active > a:focus, .navbar-nav > .active > a:hover {
-  border-bottom: 2px solid #960000 !important;
+  border-bottom: 2px solid #008eb9 !important;
   background: none !important;
-  color: #960000 !important;
+  color: #008eb9 !important;
 }
 
 .navbar-nav > li > a,
 .navbar-brand {
-  color: #e0e0e0 !important;
+  color: #222222 !important; /* Topbar link color */
 }
 
 .navbar-nav > .active > a, 
 .navbar-nav > .active > a:focus, 
 .navbar-nav > .active > a:hover {
-  border-bottom: 2px solid #960000 !important;
-  color: #960000 !important;
+  border-bottom: 2px solid #008eb9 !important;
+  color: #008eb9 !important;
 }
 
-a { color: #888484; }
-a:hover { color: #ffb300; }
+a { color: #008eb9; }
+a:hover { color: #008eb9; }
 
 hr { border-top: 1px solid #333; }
 
-.fa { color: #e0e0e0; }
+.fa { color: #222222; }
 
 body, .main-container {
   font-size: 14pt;
+  color: #222222 !important; /* Main text color */
 }
 
 /* Center the navbar brand in the topbar */
