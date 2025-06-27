@@ -24,7 +24,7 @@ A current CV is available [here](CV_Jung.pdf).
 </div>
 
 
-My research interest center around **survival and event history** analysis with a particular focus on method development and applications to electronic health records (EHR) 
+My research interest center around **survival and event history** analysis with a particular focus on method development and applications to electronic health records (EHR).
  More recently, I have been working on **generative AI** and **causal inference** - you may find a more detailed expose in [Research](research.html). 
 
 If you are interest to discuss or collaborate on a problem in this direction, don't hesitate to contact me by [email](contact.html).  

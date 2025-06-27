@@ -34,7 +34,7 @@ and heuristically linked the model's reasoning (via explainable AI) to more clas
 While these links remain informally defined, they represent a promising modeling approach.
 One of my current goals is to formalize this connection and establish standard statistical properties for such models.
 
-Another major interest area of mine is causal inference in observational data,
+Another major interest area of mine is causal inference for observational data,
 particularly in complex longitudinal designs where outcomes, exposures, and confounders vary over time with feedback channels that require careful handling.
 Key application areas include life-course outcomes and inter-generational effects—both challenging to study in randomized clinical trials.
 
