@@ -6,9 +6,9 @@
 \ 
 <div style="display: flex; align-items: flex-start;">
 
-  <img src="mainimg.jpg" style="width:87%; border:0.1px solid; margin-right: 30px; margin-left: 10px;">
+  <img src="mainimg.jpg" style="width:75%; border:0.1px solid; margin-right: 30px; margin-left: 10px;">
 
-  <div style="max-width: 87%;">
+  <div style="max-width: 75%;">
 
 
 I am a [postdoctoral fellow](https://bsse.ethz.ch/people/detail-person.MzQxNDg4.TGlzdC8yNjY5LC0xMDExNjczNjI=.html) at the [Department of Biosystems Science and Engineering](https://bsse.ethz.ch/), [ETH Zurich](https://ethz.ch/). 

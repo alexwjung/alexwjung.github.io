@@ -7,14 +7,14 @@ title: ""
 \
 
 ### Reserch interests: 
-- Survial & event history analysis
+- Survival & event history analysis
 - Stochastic processes
 - Generative AI
 - Bayesian Statistics
-- Non-paramteric and semi-parametric inference.
-- Caual inference
+- Non-parametric and semi-parametric inference.
+- Causal inference
 - Sensitivity Analysis
-- Life Course & Intergenerational Epidemiology
+- Life Course & Inter-generational Epidemiology
 
 
 \
@@ -34,8 +34,8 @@ and heuristically linked the model's reasoning (via explainable AI) to more clas
 While these links remain informally defined, they represent a promising modeling approach.
 One of my current goals is to formalize this connection and establish standard statistical properties for such models.
 
-Another major interest is causal inference in observational data,
+Another major interest area of mine is causal inference in observational data,
 particularly in complex longitudinal designs where outcomes, exposures, and confounders vary over time with feedback channels that require careful handling.
-Key application areas include life-course outcomes and intergenerational effects—both challenging to study in randomized clinical trials.
+Key application areas include life-course outcomes and inter-generational effects—both challenging to study in randomized clinical trials.
 
 You may find an overview of my publications on [Google scholar](https://scholar.google.com/citations?user=cNSkFmEAAAAJ&hl=).
